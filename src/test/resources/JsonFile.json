@@ -1,0 +1,15 @@
+{
+	"name":"Saikrishna",
+	"age":"32",
+	"status":"True",
+	"address":{
+		"city":"Chennai",
+		"state":"Tamil Nadu"
+	},
+	"courses":[
+		"Java",
+		"Selenium",
+		"API"
+	]
+	
+}
